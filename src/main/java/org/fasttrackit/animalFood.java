@@ -19,5 +19,3 @@ public class animalFood {
         this.expirationDate = expirationDate;
     }
 }
-
-    setExpirationDate(LocalDateTime 2020,12,31));
