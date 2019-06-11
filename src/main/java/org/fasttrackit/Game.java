@@ -5,4 +5,5 @@ public class Game {
     String rescuer;
     String dog;
     String medic;
-}
+
+    }
